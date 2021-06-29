@@ -1,5 +1,5 @@
 # Determining the maximum for a function
-**Project developed in Python, using using a genetic algorithm**
+**Project developed in Python, using a genetic algorithm**
 
 ## Input data
 * population size;
