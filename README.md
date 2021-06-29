@@ -11,6 +11,6 @@
 * number of steps of the algorithm;
 
 ## Algorithm steps
-1. Creation of the initial population: the population consists of chromosomes of length [formula](https://postimg.cc/vgHpt3q3), with genes equal to 1 or 0
+1. Creation of the initial population: the population consists of chromosomes of length [![Formula-lungime.gif](https://i.postimg.cc/76gwDRg8/Formula-lungime.gif)](https://postimg.cc/vgHpt3q3), with genes equal to 1 or 0
 
  
