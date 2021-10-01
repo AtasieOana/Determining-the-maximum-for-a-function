@@ -12,7 +12,7 @@
 
 ## Algorithm steps
 1. Creation of the <b>initial population</b>: the population consists of chromosomes with genes equal to 1 or 0, of length: \
-[![Formula-lungime.gif](https://i.postimg.cc/76gwDRg8/Formula-lungime.gif)](https://postimg.cc/vgHpt3q3)
+[![Formula-Lungime.png](https://i.postimg.cc/CKLBYDvh/equaimage.png)](https://postimg.cc/VJpLWSQp)
 2. Calculating the **selection probabilities** for each chromosome, where: \
 [![Prob-Selectie.gif](https://i.postimg.cc/nrD7Hp3V/Prob-Selectie.gif)](https://postimg.cc/tn97kQ08)
 3. Calculating the cumulative probabilities that give the **intervals for selection**
